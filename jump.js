@@ -4,7 +4,7 @@ addEventListener('fetch', event => {
   
   async function handleRequest(request) {
     // 将这里的 'https://your-destination-url.com' 替换为你想要跳转的目标网址
-    const destinationURL = 'https://your-destination-url.com'
+    const destinationURL = 'https://www.lsepcn.com'
   
     const html = `
       <!DOCTYPE html>
